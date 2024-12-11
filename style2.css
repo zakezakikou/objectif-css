@@ -1,0 +1,10 @@
+body{padding: 10%;
+
+}
+
+
+.num1 , .num2 , .num3 , .num4{padding: 10px;}
+button{margin-left: 100px;
+    width: 100px;
+    background-color: rgb(200, 231, 21);
+}
